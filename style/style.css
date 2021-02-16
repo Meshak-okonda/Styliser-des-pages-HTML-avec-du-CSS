@@ -50,7 +50,7 @@ a{
     font-weight: bold;
 }
 
-tr:nth-child(even) {background-color:gainsboro;}
+tr:nth-child(2n) {background-color:gainsboro;}
 td:nth-child(odd) {font-weight: bold;}
 
 tr:hover{
